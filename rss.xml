@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Catharsis]]></title>
         <description><![CDATA[Catharsis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/catharsis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 20:44:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 20:44:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/catharsis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our Return To Eden</p>]]></description>
-            <link>undefinedour-return-to-eden/index.html</link>
+            <link>https://thegrid.ai/catharsis/our-return-to-eden/index.html</link>
             <guid isPermaLink="false">b7cbc51c-25c6-4a2c-ac9f-50ccecb706c6</guid>
             <pubDate>Thu, 16 Jun 2016 20:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22c9e9f4-1c04-43d2-a636-3b8eac16e76a.jpg">]]></description>
+            <link>https://thegrid.ai/catharsis/b45285e3-fead-4711-ad05-8f210b901231/index.html</link>
+            <guid isPermaLink="false">b45285e3-fead-4711-ad05-8f210b901231</guid>
+            <pubDate>Thu, 16 Jun 2016 20:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
