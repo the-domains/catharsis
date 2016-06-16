@@ -1,7 +1,7 @@
 name: Catharsis
 favicon: null
-layout_spectrum: 0.9159436714835465
-typography_spectrum: 0.6502599245868623
+layout_spectrum: 1
+typography_spectrum: 0
 title: Catharsis
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3189109698869288
-  lightness: 0.1026084735058248
-  saturation: 0.9675002410076559
-  rhythmicContrast: 0.0312155622523278
+    - '#4c7d7e'
+    - '#70a09f'
+    - '#97bebd'
+    - '#0c0f16'
+    - '#c2dcd7'
+  brandStrength: 0.875
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
